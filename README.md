@@ -22,4 +22,3 @@ L'exercice conciste à :
 ## 2. Crédits
 
 Une belle journée en pair-programming avec [Roobios](https://github.com/Roobios), [joffrey7486](https://github.com/joffrey7486) et [fleopaulD](https://github.com/fleopaulD) :smiley:
-
